@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huong123opc/node_bog.git"
+  },
+  "keywords": [
+    "939698"
+  ],
+  "author": "huong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huong123opc/node_bog/issues"
+  },
+  "homepage": "https://github.com/huong123opc/node_bog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
